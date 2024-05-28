@@ -1,0 +1,103 @@
+
+
+.work-section button{
+    
+       
+    width: 113px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 65px;
+    border: none;
+    font-size: 16px;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+text-decoration: none;
+background-color: #EDEBF7;
+    color: #3C2769;
+    padding: 15px;
+      
+   
+}
+
+
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.like-icons {
+    width: 400px;
+    height: 100px;
+    margin-inline-start: auto;
+    font-size: 12px;
+    margin-top: 20px;
+
+
+}
+.like-icons img{
+    margin-bottom: 20px;
+}
+.like-icons p{
+    width: 200px;
+    height: 100px;
+    margin-left: 1px;
+}
+.like-icons{
+    margin-left: 100px;
+    margin-bottom: 200px;
+}
+.like-icons h5{
+    margin-top: 10px;
+}
+
+.image-section{
+    display: flex;
+}
+.image-section.left-image img{
+    width: 176px;
+height:176px;
+}
+.image-section.right-image {
+    width: 300px;
+
+}
+
+
+ .image-section.right-image.smooth button {
+    
+        width: 180px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 65px;
+        border: none;
+        font-size: 16px;
+        display: flex;
+        text-align: center;
+    text-decoration: none;
+    background-color: #EDEBF7;
+        color: #3C2769;
+        padding: 15px;
+          
+         margin: 10px;
+         margin-top: 10px;
+       
+    }
+
+    .image-section{
+        width: 500px;
+        margin-left: 10px;
+    }
+    .smooth{
+        width: 400px;
+    }
+    
+    
+    

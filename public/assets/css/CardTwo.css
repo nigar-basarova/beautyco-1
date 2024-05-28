@@ -1,0 +1,39 @@
+.card-two {
+    width:500px;
+    padding: 100px;
+    background-color: #F3F5F7;
+}
+.best-selling h3{
+    width: 200px;
+    font-size: 10px;
+}
+.best-selling p {
+    width: 218px;
+height: 154px;
+top: 68px;
+
+
+
+font-size: 17px;
+display: flex;
+justify-content: center;
+text-align: center;
+
+}
+.card-two img{
+    
+        width: 395px;
+    height: 450px;
+    
+    
+        
+        background-color: #F3F5F7;
+    
+    
+
+    
+}
+
+.card-two button{
+    background-color: black;
+}
