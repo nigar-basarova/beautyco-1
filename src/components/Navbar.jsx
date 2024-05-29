@@ -43,7 +43,7 @@ purpleMenyu.current.classList.add("aktiv")
               <Link className="nav-link" to="/blog">Blog</Link>
             </li>
             <li className="nav-item dropdown">
-              <link className="nav-link dropdown-toggle" to="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              <link className="nav-link dropdown-toggle" to="/collections" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 Collections
               </link>
               <ul className="dropdown-menu">
