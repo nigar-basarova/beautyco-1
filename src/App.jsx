@@ -40,12 +40,13 @@ function App() {
           <Route path="/" element={<Introduction />} />
           <Route path="/story" element={<Story1 />} />
           <Route path="/product" element={<ProductSection/>} />
-          <Route path="/blog" element={<HowItWorks />} />
+          <Route path="/blog" element={<Introduction />} />
       
           <Route path="/collections" element={<LastSection />} />
           
           <Route path="*" element={<NotFound />} />
         </Routes>
+        <Introduction/>
         <Story/>
    <ProductSection/>
    <HowItWorks/>
